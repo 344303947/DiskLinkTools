@@ -16,3 +16,5 @@ C盘目录迁移工具，需要安装python环境，帮助迁移大文件目录�
     - 输入路径时请使用绝对路径。
     - 操作前请务必确认目录信息正确。
     
+使用方式2 python  C:\Users\sean.su\Desktop\mlink_tools_ui.py   
+通过界面选择目录，实现撤回等功能
